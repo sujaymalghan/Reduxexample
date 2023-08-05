@@ -1,1 +1,1 @@
-# Reduxexample
+# React project using Redux toolkit
